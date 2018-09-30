@@ -79,4 +79,5 @@ header h2 {
 
 .about figure img {
     max-width: 300px;
+    border-radius: 5%;
 }
